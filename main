@@ -132,7 +132,7 @@
 
   <!-- Hero -->
   <section id="hero" class="hero">
-    <img src="c:\Users\pooja\OneDrive\画像\photo.jpg" alt="Profile">
+    <img src="c:Users\pooja\OneDrive\画像\photo.jpg" alt="Profile">
     <h1>Hello, I'm Palupuri Poojitha</h1>
     <p>B.Tech CSE (AI & ML) | Data Analytics & Software Development Enthusiast</p>
     <a href="#contact" class="btn primary">Get In Touch</a>
